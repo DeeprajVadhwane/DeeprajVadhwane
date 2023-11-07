@@ -12,6 +12,8 @@
 - 📫 How to reach me **deeprajvadhwane01@gmail.com**
 
 - ⚡ Fun fact **I think Data is a fuel to run Business**
+- I see Data Everywhere I Look
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
