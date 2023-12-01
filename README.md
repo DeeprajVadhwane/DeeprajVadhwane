@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deeprajvadhwane&label=Profile%20views&color=0e75b6&style=flat" alt="deeprajvadhwane" /> </p>
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Data Science and AI**
 
 - 👨‍💻 All of my projects are available at [DeeprajVadhwane](DeeprajVadhwane)
 
