@@ -14,6 +14,15 @@
 - ⚡ Fun fact **I think Data is a fuel to run Business**
 - I see **Data Everywhere I Look**
   
+## Skills and Technologies
+
+- **Python**: My primary programming language for data analysis, machine learning, and general-purpose scripting.
+- **Data Analysis**: Analyzing and extracting Actionable insights from datasets.
+- **Machine Learning**: Developing models for predictive analysis and decision-making.
+- **Deep Learning**: Working with neural networks and deep learning frameworks.
+- **Data Engineering**: Designing and optimizing data pipelines for efficient data processing.
+- **Web Scraping**: Extracting data from websites using web scraping techniques.
+
 
 <p align="left">
   <a href="https://www.linkedin.com/in/deepraj-vadhwane/" target="_blank">
