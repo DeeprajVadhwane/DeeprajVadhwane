@@ -21,5 +21,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeeprajVadhwane)](https://github.com/DeeprajVadhwane?tab=repositories)
 
-![Profile views](https://gpvc.arturio.dev/DeeprajVadhwane)
 
