@@ -48,18 +48,8 @@
   </a>
 </p>
 
-[![Deepraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeeprajVadhwane&count_private=true&show_icons=true&theme=dracula&hide_rank=false)](https://github.com/DeeprajVadhwane?tab=repositories)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeeprajVadhwane)](https://github.com/DeeprajVadhwane?tab=repositories)
 
+[![Deepraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeeprajVadhwane&count_private=true&show_icons=true&theme=dracula&hide_rank=false)](https://github.com/DeeprajVadhwane?tab=repositories)
 
-<table>
-  <tr>
-    <td>[![Deepraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeeprajVadhwane&count_private=true&show_icons=true&theme=dracula&hide_rank=false)](https://github.com/DeeprajVadhwane?tab=repositories)</td>
-  
-  </tr>
-  <tr>
-    <td>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeeprajVadhwane)](https://github.com/DeeprajVadhwane?tab=repositories)
 
-  </tr>
-</table>
