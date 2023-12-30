@@ -10,9 +10,9 @@
 - 💬 Ask me about **python, Data Science, Machine Learning**
 
 - 📫 How to reach me:
-  - :📧:[mail](deeprajvadhwane01@gmail.com)
-  - :bulb: [Discord Community]([https://discord.gg/TtMT4AW](https://discord.gg/C2C9Ys9j))
-  - :office: [LinkedIn]([https://www.linkedin.com/in/kanavbansal/](https://www.linkedin.com/in/deepraj-vadhwane/))
+  - 📧:[mail](deeprajvadhwane01@gmail.com)
+  - :bulb: [Discord Community](https://discord.gg/C2C9Ys9j)
+  - :office: [LinkedIn](https://www.linkedin.com/in/deepraj-vadhwane/)
 
 - ⚡ Fun fact **I think Data is a fuel to run Business**
 - I see **Data Everywhere I Look**
