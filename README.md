@@ -10,7 +10,7 @@
 - 💬 Ask me about **python, Data Science, Machine Learning**
 
 - 📫 How to reach me:
-  - 📧:[mail](deeprajvadhwane01@gmail.com)
+  - 📧 **deeprajvadhwane01@gmail.com**
   - :bulb: [Discord Community](https://discord.gg/C2C9Ys9j)
   - :office: [LinkedIn](https://www.linkedin.com/in/deepraj-vadhwane/)
 
