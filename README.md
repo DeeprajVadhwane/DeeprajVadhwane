@@ -22,35 +22,9 @@
 - **Deep Learning**: Working with neural networks and deep learning frameworks.
 - **Data Engineering**: Designing and optimizing data pipelines for efficient data processing.
 - **Web Scraping**: Extracting data from websites using web scraping techniques.
+  
+[![Deepraj's github stats](https://github-readme-stats.vercel.app/api?username=DeeprajVadhwane&count_private=true&show_icons=true&theme=dracula&hide_rank=false)](https://github.com/DeeprajVadhwane?tab=repositories)
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/deepraj-vadhwane/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deeprajvadhwane" height="30" width="40" />
-  </a>
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeeprajVadhwane)](https://github.com/DeeprajVadhwane?tab=repositories)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-  </a>
-</p>
-
-<div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deeprajvadhwane&show_icons=true&locale=en&layout=compact" alt="deeprajvadhwane" />
-</div>
-
-<div>&nbsp;</div>
-
-<div align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=deeprajvadhwane&show_icons=true&locale=en" alt="deeprajvadhwane" />
-</div>
+![Profile views](https://gpvc.arturio.dev/DeeprajVadhwane)
