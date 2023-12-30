@@ -9,22 +9,17 @@
 
 - 💬 Ask me about **python, Data Science, Machine Learning**
 
-- 📫 How to reach me **deeprajvadhwane01@gmail.com**
+- 📫 How to reach me:
+  - :📧:[mail](deeprajvadhwane01@gmail.com)
+  - :bulb: [Discord Community]([https://discord.gg/TtMT4AW](https://discord.gg/C2C9Ys9j))
+  - :office: [LinkedIn]([https://www.linkedin.com/in/kanavbansal/](https://www.linkedin.com/in/deepraj-vadhwane/))
 
 - ⚡ Fun fact **I think Data is a fuel to run Business**
 - I see **Data Everywhere I Look**
-  
-## Skills and Technologies
-
-- **Python**: My primary programming language for data analysis, machine learning, and general-purpose scripting.
-- **Data Analysis**: Analyzing and extracting Actionable insights from datasets.
-- **Machine Learning**: Developing models for predictive analysis and decision-making.
-- **Deep Learning**: Working with neural networks and deep learning frameworks.
-- **Data Engineering**: Designing and optimizing data pipelines for efficient data processing.
-- **Web Scraping**: Extracting data from websites using web scraping techniques.
-  
+ 
 [![Deepraj's github stats](https://github-readme-stats.vercel.app/api?username=DeeprajVadhwane&count_private=true&show_icons=true&theme=dracula&hide_rank=false)](https://github.com/DeeprajVadhwane?tab=repositories)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeeprajVadhwane)](https://github.com/DeeprajVadhwane?tab=repositories)
 
 ![Profile views](https://gpvc.arturio.dev/DeeprajVadhwane)
+
