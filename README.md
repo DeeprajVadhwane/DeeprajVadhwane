@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deepraj Vadhwane</h1>
-<h3 align="center">A passionate Data Science </h3>
+<h3 align="center">Data Scientist </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deeprajvadhwane&label=Profile%20views&color=0e75b6&style=flat" alt="deeprajvadhwane" /> </p>
 
@@ -7,11 +7,11 @@
 
 - 👨‍💻 All of my projects are available at [DeeprajVadhwane](DeeprajVadhwane)
 
-- 💬 Ask me about **python, Data Science, Machine Learning**
+- 💬 Ask me about **python, Data Science, Machine Learning, Deep learning,Natural Language Processing and LLMS**
 
 - 📫 How to reach me:
   - 📧 **deeprajvadhwane01@gmail.com**
-  - :bulb: [Discord Community](https://discord.gg/C2C9Ys9j)
+  - :bulb: [Medium blogs](https://medium.com/@deeprajvadhwane01)
   - :office: [LinkedIn](https://www.linkedin.com/in/deepraj-vadhwane/)
 
 - ⚡ Fun fact **I think Data is a fuel to run Business**
