@@ -10,6 +10,7 @@
 - 💬 Ask me about **python, Data Science, Machine Learning, Deep learning,Natural Language Processing and LLMS**
 
 - 📫 How to reach me:
+
   - 📧 **deeprajvadhwane01@gmail.com**
   - :bulb: [Medium blogs](https://medium.com/@deeprajvadhwane01)
   - :office: [LinkedIn](https://www.linkedin.com/in/deepraj-vadhwane/)
